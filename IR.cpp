@@ -86,7 +86,6 @@ public:
     }
 };
 
-// Arith class
 class Arith : public Op {
 public:
     Expr* expr1;
